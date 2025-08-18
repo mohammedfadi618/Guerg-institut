@@ -1,0 +1,57 @@
+{
+  "format": "custom",
+  "id": "seminaires_page",
+  "label": "seminaires page",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "page_title": {
+        "type": "Text",
+        "config": {
+          "label": "page title",
+          "placeholder": ""
+        }
+      },
+      "page_content": {
+        "type": "Text",
+        "config": {
+          "label": "page content",
+          "placeholder": ""
+        }
+      },
+      "meta_title": {
+        "type": "StructuredText",
+        "config": {
+          "label": "meta title",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "meta_description": {
+        "type": "StructuredText",
+        "config": {
+          "label": "meta description",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "contact_section": {
+              "type": "SharedSlice"
+            },
+            "footer": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"copyright_text": {
+				"__TYPE__": "FieldContent",
+				"value": "joined",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

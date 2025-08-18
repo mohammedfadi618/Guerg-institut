@@ -1,0 +1,28 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"button_link": {
+				"key": "5492cec1-2b6a-453a-8caf-613769c3ff33",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "fog"
+				}
+			},
+			"text": {
+				"__TYPE__": "FieldContent",
+				"value": "everywhere",
+				"type": "Text"
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "usual",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

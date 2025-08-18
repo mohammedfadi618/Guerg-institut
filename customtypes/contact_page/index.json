@@ -1,0 +1,10 @@
+{
+  "format": "custom",
+  "id": "contact_page",
+  "label": "contact page",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}

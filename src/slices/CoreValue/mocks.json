@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "meant",
+				"type": "Text"
+			},
+			"manifesto": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Duis incididunt incididunt magna dolore."
+						}
+					}
+				]
+			},
+			"quote_text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ut occaecat deserunt ex excepteur fugiat enim consequat ut qui commodo irure."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

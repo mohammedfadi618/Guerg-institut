@@ -1,0 +1,63 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"seminar_title": {
+				"__TYPE__": "FieldContent",
+				"value": "weigh",
+				"type": "Text"
+			},
+			"seminar_text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Mollit laborum incididunt adipisicing proident mollit mollit exercitation duis quis. Deserunt pariatur Lorem duis quis fugiat ex incididunt enim reprehenderit. Exercitation dolor et est elit nostrud ea qui sunt dolore dolore pariatur nisi deserunt."
+						}
+					}
+				]
+			},
+			"mentoring_title": {
+				"__TYPE__": "FieldContent",
+				"value": "slow",
+				"type": "Text"
+			},
+			"mentoring_text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aliqua fugiat enim minim duis quis. Et qui fugiat dolor exercitation consequat incididunt cillum eu. Et voluptate irure ut nisi laboris magna cillum tempor et pariatur dolor duis."
+						}
+					}
+				]
+			},
+			"manifeste_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Non culpa et consequat consequat veniam dolor in duis do sit. Ut non nisi mollit voluptate proident id nisi qui labore cillum deserunt commodo amet consectetur. Fugiat Lorem consequat amet minim aute Lorem cillum ipsum ad."
+						}
+					}
+				]
+			},
+			"manifeste_text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim quis ex deserunt anim est. Consequat cupidatat duis minim elit enim exercitation tempor irure. Pariatur fugiat excepteur labore laboris labore labore aliqua est consequat."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
