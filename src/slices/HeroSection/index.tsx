@@ -30,7 +30,7 @@ const HeroSection = () => {
 
         {/* Subtitle */}
         <h2 className="text-lg tracking-[0.2em] uppercase text-gray-700 mb-2 font-medium">
-          INSTITUT DU SYSTÈME D'INFORMATION DU FUTURE
+          INSTITUT DU SYSTÈME D&apos;INFORMATION DU FUTURE
         </h2>
 
         {/* Sub-subtitle */}

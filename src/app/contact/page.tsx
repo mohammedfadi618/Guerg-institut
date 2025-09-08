@@ -82,7 +82,7 @@ export default async function ContactPage() {
             <p className="text-lg text-gray-700">
               <span className="font-semibold">Adresse : </span> 
               {/* MODIFIER ICI : L'adresse physique */}
-              123 Rue de l'Innovation, 75001 Paris, France (exemple)
+              123 Rue de l&apos;Innovation, 75001 Paris, France (exemple)
             </p>
           </div>
 

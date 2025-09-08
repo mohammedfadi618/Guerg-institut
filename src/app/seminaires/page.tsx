@@ -35,7 +35,7 @@ export default async function SeminairesPage() {
           Catalogue Des Séminaires
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 leading-relaxed max-w-2xl mx-auto font-sans">
-          Explorez nos sessions intensives pour leaders du Système d'Information.
+          Explorez nos sessions intensives pour leaders du Système d&apos;Information.
         </p>
       </div>
       
@@ -74,7 +74,7 @@ export default async function SeminairesPage() {
               IA Responsable pour CAIO
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
-              Intégrez l'IA de manière éthique et efficace dans vos opérations, en gérant les risques associés.
+              Intégrez l&apos;IA de manière éthique et efficace dans vos opérations, en gérant les risques associés.
             </p>
             <p className="text-xs text-gray-500 italic">
               Référence: SEM-CAIO-003

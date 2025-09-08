@@ -1,0 +1,173 @@
+[33mcommit c5bed7d4143ea8809bc911de32a4b758512a006a[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 10:25:34 2025 +0100
+
+    Version 1 sans changement only tests
+
+[33mcommit a1b159683fd69e11c975f193b34c2ceaf3a6eaa9[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 12:39:28 2025 +0100
+
+    Applique les corrections d'apostrophes et les ajustements de design sur les pages Seminaires, Mentoring, Publications et HeroSection.
+
+[33mcommit 00d7f7c6afb1c08b7fcf8aacdcce82dc11b3230a[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 12:46:30 2025 +0100
+
+    Correction de l'erreur de type dans la page de détail mentoring et préparation au déploiement.
+
+[33mcommit 6c879c7d8273ad2adb8acc6a90bf1dccc7bb5f98[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 12:55:21 2025 +0100
+
+    Correction du type de props dans mentoring/[slug]/page.tsx pour résoudre l'erreur de build
+
+[33mcommit 67bb71c703b3c4cb7895d68107532e0b8b0431a8[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 12:58:42 2025 +0100
+
+    Correction des apostrophes et nettoyage des warnings dans CoreValue et ServicesSection
+
+[33mcommit 4b16525a7852bf8bcdcfdd2777772ea150a82f16[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 13:16:26 2025 +0100
+
+    Application des corrections finales pour les avertissements et l'import manquant.
+
+[33mcommit 6d827b0e8f71e8d412e957796f6bae4822d3c396[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 13:37:14 2025 +0100
+
+    Application du fix de type final pour mentoring/[slug]/page.tsx
+
+[33mcommit e8ff183e03212b3c36841c0f24a1d19bc65ec2f3[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 13:49:32 2025 +0100
+
+    Correction du TypeError final dans mentoring/[slug]/page.tsx
+
+[33mcommit d4b426d4dd1e72e0ad9b0500ae15bc8b130663fe[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 14:48:42 2025 +0100
+
+    DEBUG: Tentative de résolution du TypeError PageProps en ajustant tsconfig.json et revérifiant page.tsx
+
+[33mcommit 4e77dc6c8192668d9428a0047c236a98bc1ed94b[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 16:04:53 2025 +0100
+
+    Fix: Ajout de .nvmrc pour spécifier la version de Node.js (v20.15.0)
+
+[33mcommit 095f2d13979085e0456dae3a0ceaa0a484547abe[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 18:58:14 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrc
+
+[33mcommit ef5f6ee1719affa221c1651a786168f158e5b3f5[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:02:13 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrc VF
+
+[33mcommit ed697c7c42ce2d417845496d0b858d0df819b3c5[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:06:02 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrc VF1
+
+[33mcommit 34e2fc0969758ea9c024ff45a2f3ed20dff83920[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:15:37 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrc VF2
+
+[33mcommit f24fb4a346ad7001eaf997f09369a17ac1d88ae8[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:19:41 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF3
+
+[33mcommit 8c28166959a1524cb031b363caa83ce56d1cd951[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:22:27 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF4
+
+[33mcommit 73e7af661c3872a7655c0ed931e71469486213fa[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:28:29 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF5
+
+[33mcommit f97982f4c738d1d4d61e71e156a6c2f43299a965[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:31:08 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF6
+
+[33mcommit 877e24de70046e66b3d5fef4aec0bdff5d65382c[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:34:23 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF7
+
+[33mcommit e0671d97ec1bef76cfeef5c83ffae8953e1bb95b[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:36:54 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF8
+
+[33mcommit 666fe5994f0d8a4522f1538dfc4e6f10e9fb5d4a[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 19:52:11 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF8
+
+[33mcommit d6ce1563941f50b2998798001145ed8837d624d2[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:11:43 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF10
+
+[33mcommit cb485f4c2d853d10c99eaada52f7f9c7f97bd4c2[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:15:25 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF11
+
+[33mcommit 2b805248f3443e5999fdf9bd7624a7bb00c0baa5[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:23:17 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF12
+
+[33mcommit c2f04cbd7c3a76b6cc4687bc0ed3f44cee0cf55d[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:26:50 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF13
+
+[33mcommit 42833edf06d63e139f13d9118b72bf0cbe4f4cf8[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:31:02 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcVF14
+
+[33mcommit 129a4ceefac3f3a991f89eb859b4eb7c9e403873[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:34:22 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcV15
+
+[33mcommit f15b4f36bd306f2708858bbedc7190a624732d6f[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:37:49 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcV16
+
+[33mcommit 52e774be75922acf3ccf4e14776fbf01d2f8e929[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mohammed <mohammedfadi838@gmail.com>
+Date:   Mon Aug 18 20:40:40 2025 +0100
+
+    Fix: Correction definitive du TypeError dans page.tsx, maj tsconfig.json et .nvmrcV17

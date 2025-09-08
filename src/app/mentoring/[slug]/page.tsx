@@ -41,7 +41,7 @@ const allMentoringOffers = [
   {
     slug: 'definition-roadmap-it',
     title: 'Définition et Validation de la Roadmap IT',
-    description: 'Nous vous accompagnons dans la construction ou la validation de votre feuille de route technologique. Ce service assure que vos investissements IT sont alignés sur vos ambitions de croissance et vos contraintes opérationnelles, en intégrant les dernières innovations et les meilleures pratiques du marché.\n\nNous vous aidons à prioriser les projets, à estimer les ressources nécessaires et à établir un calendrier réaliste, tout en vous préparant aux défis de l\'implémentation.',
+    description: 'Nous vous accompagnons dans la construction ou la validation de votre feuille de route technologique. Ce service assure que vos investissements IT sont alignés sur vos ambitions de croissance et vos contraintes opérationnelles, en intégrant les dernières innovations et les meilleures pratiques du marché.\n\nNous vous aidons à prioriser les projets, à estimer les ressources nécessaires et à établir un calendrier réaliste, tout en vous préparant aux défis de l&apos;implémentation.',
     reference: 'MENT-ROADMAP-002',
     key_details: {
       duration: '6 semaines (incluant cadrage, élaboration et validation)',
@@ -114,7 +114,7 @@ export default async function MentoringDetailPage({ params }: { params: { slug: 
         <PageHeader />
         <div className="text-center p-8 bg-white rounded-lg shadow-md max-w-xl mx-auto my-auto">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Offre de Mentoring Non Trouvée</h1>
-          <p className="text-lg text-gray-600 mb-8">Désolé, l'offre de mentoring que vous recherchez n'existe pas.</p>
+          <p className="text-lg text-gray-600 mb-8">Désolé, l&apos;offre de mentoring que vous recherchez n&apos;existe pas.</p>
           <Link href="/mentoring" className="text-blue-600 hover:underline font-medium">
             Retour à la liste des offres de mentoring
           </Link>

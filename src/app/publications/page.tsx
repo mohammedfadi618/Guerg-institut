@@ -52,7 +52,7 @@ export default async function PublicationsPage() {
         {/* Bloc 3.2 : Description de la page "Découvrez nos analyses..." */}
         {/* Styles pour la taille, la couleur, l'espacement des lignes et la largeur maximale. */}
         <p className="text-xl md:text-2xl text-gray-600 leading-relaxed max-w-2xl mx-auto font-sans">
-          Découvrez nos analyses, articles et partages d'expériences sur les tendances IT.
+          Découvrez nos analyses, articles et partages d&apos;expériences sur les tendances IT.
         </p>
       </div>
 
@@ -78,7 +78,7 @@ export default async function PublicationsPage() {
             {/* Bloc 4.2.2 : Description de la publication */}
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
               {/* MODIFIER ICI POUR LA DESCRIPTION DE LA PUBLICATION 1 */}
-              Analyse des meilleures pratiques pour l'intégration de solutions cloud hybrides et multi-cloud.
+              Analyse des meilleures pratiques pour l&apos;intégration de solutions cloud hybrides et multi-cloud.
             </p>
             {/* Bloc 4.2.3 : Source et Date de la publication */}
             <p className="text-xs text-gray-500 italic">
@@ -96,7 +96,7 @@ export default async function PublicationsPage() {
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
               {/* MODIFIER ICI POUR LA DESCRIPTION DE LA PUBLICATION 2 */}
-              Article sur le rôle crucial du leadership dans la gestion des crises technologiques et l'innovation.
+              Article sur le rôle crucial du leadership dans la gestion des crises technologiques et l&apos;innovation.
             </p>
             <p className="text-xs text-gray-500 italic">
               {/* MODIFIER ICI POUR LA SOURCE ET LA DATE */}
@@ -109,11 +109,11 @@ export default async function PublicationsPage() {
             {/* MODIFIER ICI : Le lien externe */}
             <h3 className="text-xl font-semibold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">
               {/* MODIFIER ICI POUR LE TITRE DE LA PUBLICATION 3 */}
-              L'IA Responsable : Un Impératif Éthique et Stratégique
+              L&apos;IA Responsable : Un Impératif Éthique et Stratégique
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
               {/* MODIFIER ICI POUR LA DESCRIPTION DE LA PUBLICATION 3 */}
-              Thread X (ex-Twitter) sur les implications éthiques et les stratégies d'implémentation de l'IA.
+              Thread X (ex-Twitter) sur les implications éthiques et les stratégies d&apos;implémentation de l'IA.
             </p>
             <p className="text-xs text-gray-500 italic">
               {/* MODIFIER ICI POUR LA SOURCE ET LA DATE */}

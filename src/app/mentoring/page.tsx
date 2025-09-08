@@ -78,7 +78,7 @@ export default async function MentoringPage() {
             </h3>
             {/* Bloc 4.2.2 : Description de l'offre */}
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
-              Analyse approfondie de votre Système d'Information pour aligner la stratégie IT avec les objectifs business.
+              Analyse approfondie de votre Système d&apos;Information pour aligner la stratégie IT avec les objectifs business.
             </p>
             {/* Bloc 4.2.3 : Référence de l'offre */}
             <p className="text-xs text-gray-500 italic">
@@ -105,7 +105,7 @@ export default async function MentoringPage() {
               Optimisation des Processus IT
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
-              Rationalisation des flux de travail et des opérations pour améliorer l'efficacité et réduire les coûts.
+              Rationalisation des flux de travail et des opérations pour améliorer l&apos;efficacité et réduire les coûts.
             </p>
             <p className="text-xs text-gray-500 italic">
               Référence: OPS-EFF-003
@@ -118,7 +118,7 @@ export default async function MentoringPage() {
               Stratégie Cloud & Migration
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
-              Conseil expert pour la planification et l'exécution de votre transition vers le cloud computing.
+              Conseil expert pour la planification et l&apos;exécution de votre transition vers le cloud computing.
             </p>
             <p className="text-xs text-gray-500 italic">
               Référence: CLOUD-TRANS-004

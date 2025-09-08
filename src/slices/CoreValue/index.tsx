@@ -9,8 +9,8 @@ const CoreValueProp = () => {
           Notre Expérience Distillée pour les Leaders
         </h2>
         <p className="text-gray-600 text-base leading-relaxed max-w-2xl mx-auto">
-          Les fondamentaux pour décider avec clairvoyance sur l'ensemble du spectre du Système 
-          d'Information.
+          Les fondamentaux pour décider avec clairvoyance sur l&apos;ensemble du spectre du Système 
+          d&apos;Information.
         </p>
       </div>
     </section>

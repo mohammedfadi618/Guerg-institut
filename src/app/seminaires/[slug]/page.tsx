@@ -133,7 +133,7 @@ export default async function SeminarDetailPage({ params }: { params: { slug: st
         <PageHeader />
         <div className="text-center p-8 bg-white rounded-lg shadow-md max-w-xl mx-auto my-auto">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Séminaire Non Trouvé</h1>
-          <p className="text-lg text-gray-600 mb-8">Désolé, le séminaire que vous recherchez n'existe pas.</p>
+          <p className="text-lg text-gray-600 mb-8">Désolé, le séminaire que vous recherchez n&apos;existe pas.</p>
           <Link href="/seminaires" className="text-blue-600 hover:underline font-medium">
             Retour à la liste des séminaires
           </Link>
