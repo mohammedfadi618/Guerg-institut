@@ -113,7 +113,7 @@ export default async function PublicationsPage() {
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
               {/* MODIFIER ICI POUR LA DESCRIPTION DE LA PUBLICATION 3 */}
-              Thread X (ex-Twitter) sur les implications éthiques et les stratégies d&apos;implémentation de l'IA.
+              Thread X (ex-Twitter) sur les implications éthiques et les stratégies d&apos;implémentation de l&apos;IA.
             </p>
             <p className="text-xs text-gray-500 italic">
               {/* MODIFIER ICI POUR LA SOURCE ET LA DATE */}

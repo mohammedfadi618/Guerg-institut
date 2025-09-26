@@ -21,20 +21,20 @@ const allMentoringOffers = [
   {
     slug: 'audit-strategique-si',
     title: 'Audit Stratégique SI',
-    description: 'Cet audit approfondi évalue l\'alignement de votre Système d\'Information avec la stratégie globale de votre entreprise. Nous identifions les forces, les faiblesses, les opportunités et les menaces, et vous fournissons des recommandations concrètes pour optimiser la performance et la valeur de votre SI.\n\nNotre approche est basée sur des entretiens, l\'analyse de documents et une immersion dans vos processus, garantissant une vision holistique et des solutions adaptées à votre contexte.',
+    description: 'Cet audit approfondi évalue l&apos;alignement de votre Système d&apos;Information avec la stratégie globale de votre entreprise. Nous identifions les forces, les faiblesses, les opportunités et les menaces, et vous fournissons des recommandations concrètes pour optimiser la performance et la valeur de votre SI.\n\nNotre approche est basée sur des entretiens, l&apos;analyse de documents et une immersion dans vos processus, garantissant une vision holistique et des solutions adaptées à votre contexte.',
     reference: 'MENT-AUDIT-001',
     key_details: {
       duration: '4 semaines (incluant analyse et restitution)',
       target_audience: 'DSI, CTO, CEO, Cadres dirigeants',
       format: 'Entretiens individuels et workshops collectifs',
       location: 'Sur site ou à distance',
-      deliverables: 'Rapport d\'audit détaillé, roadmap stratégique, présentation executive',
+      deliverables: 'Rapport d&apos;audit détaillé, roadmap stratégique, présentation executive',
     },
     learning_points: [
-      'Identification des leviers d\'optimisation du SI',
+      'Identification des leviers d&apos;optimisation du SI',
       'Alignement SI/stratégie métier',
       'Évaluation des risques et opportunités technologiques',
-      'Développement de plans d\'action pragmatiques',
+      'Développement de plans d&apos;action pragmatiques',
     ],
     image_url: 'https://placehold.co/800x400/FF5733/ffffff?text=Audit+Strategique+SI',
   },
@@ -60,35 +60,35 @@ const allMentoringOffers = [
   },
   {
     slug: 'gestion-talent-tech',
-    title: 'Gestion des Talents Tech et Culture d\'Innovation',
-    description: 'Le capital humain est au cœur de la performance IT. Ce mentoring vous aide à bâtir des équipes technologiques solides, à attirer les meilleurs talents, à les développer et à favoriser une culture d\'innovation et de collaboration continue. Nous abordons la gestion de la performance, le leadership inclusif et la création d\'environnements propices à la créativité et à l\'apprentissage.',
+    title: 'Gestion des Talents Tech et Culture d&apos;Innovation',
+    description: 'Le capital humain est au cœur de la performance IT. Ce mentoring vous aide à bâtir des équipes technologiques solides, à attirer les meilleurs talents, à les développer et à favoriser une culture d&apos;innovation et de collaboration continue. Nous abordons la gestion de la performance, le leadership inclusif et la création d&apos;environnements propices à la créativité et à l&apos;apprentissage.',
     reference: 'MENT-TALENT-003',
     key_details: {
       duration: '3 mois (sessions hebdomadaires)',
-      target_audience: 'DRH, Leaders d\'équipes tech, Managers IT',
+      target_audience: 'DRH, Leaders d&apos;équipes tech, Managers IT',
       format: 'Coaching personnel et workshops thématiques',
       location: 'En ligne ou présentiel',
       deliverables: 'Plan de développement des talents, stratégies de recrutement, cadre culturel',
     },
     learning_points: [
-      'Stratégies d\'acquisition et de rétention des talents tech',
+      'Stratégies d&apos;acquisition et de rétention des talents tech',
       'Développement du leadership au sein des équipes IT',
-      'Mise en place d\'une culture d\'innovation et d\'agilité',
-      'Gestion de la diversité et de l\'inclusion dans les équipes tech',
+      'Mise en place d&apos;une culture d&apos;innovation et d&apos;agilité',
+      'Gestion de la diversité et de l&apos;inclusion dans les équipes tech',
     ],
     image_url: 'https://placehold.co/800x400/3366FF/ffffff?text=Talent+Tech',
   },
   {
     slug: 'optimisation-couts-it',
     title: 'Optimisation des Coûts IT',
-    description: 'Face à la pression économique, l\'optimisation des coûts IT est cruciale. Ce service de mentoring vous aide à identifier les gisements d\'économies sans compromettre la qualité ni la sécurité de vos infrastructures et applications. Nous explorons les stratégies de FinOps, de rationalisation des portefeuilles applicatifs et d\'optimisation des contrats fournisseurs.',
+    description: 'Face à la pression économique, l&apos;optimisation des coûts IT est cruciale. Ce service de mentoring vous aide à identifier les gisements d&apos;économies sans compromettre la qualité ni la sécurité de vos infrastructures et applications. Nous explorons les stratégies de FinOps, de rationalisation des portefeuilles applicatifs et d&apos;optimisation des contrats fournisseurs.',
     reference: 'MENT-COST-004',
     key_details: {
       duration: '8 semaines (analyse initiale + accompagnement)',
-      target_audience: 'DSI, Directeurs Financiers, Responsables d\'achats IT',
+      target_audience: 'DSI, Directeurs Financiers, Responsables d&apos;achats IT',
       format: 'Analyse sur mesure et coaching stratégique',
       location: 'Sur site ou à distance',
-      deliverables: 'Rapport d\'optimisation, plan d\'action d\'économies, indicateurs de suivi',
+      deliverables: 'Rapport d&apos;optimisation, plan d&apos;action d&apos;économies, indicateurs de suivi',
     },
     learning_points: [
       'Méthodologies FinOps et Cloud Cost Management',
@@ -142,7 +142,7 @@ export default async function MentoringDetailPage({ params }: { params: { slug: 
       <div className="max-w-6xl mx-auto px-4 py-16 grid grid-cols-1 lg:grid-cols-2 gap-12">
         {/* Colonne Gauche : Description de l'Offre */}
         <div>
-          <h2 className="text-3xl font-bold text-gray-800 mb-6">Description de l'Offre</h2>
+          <h2 className="text-3xl font-bold text-gray-800 mb-6">Description de l&apos;Offre</h2>
           {/* La description peut contenir des retours à la ligne, on les gère avec white-space-pre-wrap */}
           <p className="text-gray-700 text-lg leading-relaxed whitespace-pre-wrap">
             {offer.description}

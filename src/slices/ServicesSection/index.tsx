@@ -1,10 +1,7 @@
 // src/slices/ServicesSection/index.tsx
 
 import React from 'react';
-// Les imports PrismicRichText et PrismicText ne sont plus strictement nécessaires
-// si aucun champ Prismic n'est utilisé dans ce composant.
-// Je les garde au cas où tu réintroduirais des champs Prismic plus tard.
-import { SliceComponentProps, PrismicRichText, PrismicText } from '@prismicio/react';
+import { SliceComponentProps } from '@prismicio/react';
 import { Content } from '@prismicio/client';
 
 // Assure-toi que 'Content.ServicesSectionSlice' correspond au type généré par Prismic.
@@ -12,7 +9,7 @@ import { Content } from '@prismicio/client';
 // pour la prop 'slice' si elle est passée par la SliceZone.
 type ServicesSectionProps = SliceComponentProps<Content.ServicesSectionSlice>;
 
-const ServicesSection = ({ slice }: ServicesSectionProps) => { // La prop 'slice' est toujours reçue
+const ServicesSection = ({ slice: _slice }: ServicesSectionProps) => { // La prop 'slice' est préfixée par _ pour indiquer qu'elle n'est pas utilisée
   return (
     <section className="bg-gray-50 py-16 px-4">
       <div className="max-w-6xl mx-auto">

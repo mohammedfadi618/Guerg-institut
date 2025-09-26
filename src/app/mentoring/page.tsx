@@ -92,7 +92,7 @@ export default async function MentoringPage() {
               Définition de Roadmap IT
             </h3>
             <p className="text-gray-700 text-sm leading-relaxed mb-4">
-              Élaboration d'une feuille de route technologique claire et réalisable pour guider vos investissements futurs.
+              Élaboration d&apos;une feuille de route technologique claire et réalisable pour guider vos investissements futurs.
             </p>
             <p className="text-xs text-gray-500 italic">
               Référence: VISION-ROAD-002

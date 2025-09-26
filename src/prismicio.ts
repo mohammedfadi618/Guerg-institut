@@ -3,7 +3,6 @@
 
 import * as prismic from "@prismicio/client";
 import { enableAutoPreviews } from "@prismicio/next";
-import sm from "../slicemachine.config.json";
 
 /**
  * Le nom de ton repository Prismic. Il doit être EXACT.
